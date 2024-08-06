@@ -1,4 +1,4 @@
-# IoT-Tech.-Upskilling-IoT-X-
+# IoT_ai_Make-A-Thon
 IoT Tech. Upskilling” 현장문제 중심 IoT-X 융합 메이커톤
 
 # 아두이노 클라우드를 활용한 스마트 작업대 조명 시스템
